@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'github第一次提交'
+date: 2021-04-27
+author: TIANQX
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: git
+---
+git init     
+![avatar](https://raw.githubusercontent.com/TIANQX/TIANQX.github.io/master/assets/img/github1.PNG)    
+git add .   
+![avatar](https://raw.githubusercontent.com/TIANQX/TIANQX.github.io/master/assets/img/github2.PNG)    
+git commit -m 'Initial Commit'   
+![avatar](https://raw.githubusercontent.com/TIANQX/TIANQX.github.io/master/assets/img/github3.PNG)     
+git push -u origin master    
+![avatar](https://raw.githubusercontent.com/TIANQX/TIANQX.github.io/master/assets/img/github4.PNG) 
